@@ -2,7 +2,7 @@
 
 An AI powered chatbot that is intended to help you with your Software Interview Preparation and doubts related to coding problems. Codie runs on the GPT-3 model created by OpenAI, and is programmed specifically for this use case.  
 
-# Why use Codie?
+# Why use My Solution?
 - Codie comes as a chrome extension, meaning there's no need to navigate between tabs, making it super convinient and accessible
 - Codie can read and understand the question you are solving. You don't have to copy and paste anything
 - Codie comes with well engineered pre-defined prompts that you can use with a click of a button
