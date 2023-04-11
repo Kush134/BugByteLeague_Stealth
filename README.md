@@ -1,4 +1,4 @@
-# Hackoona Matata Hackathon
+# BugByteLeague Hackathon
 
 An AI powered chatbot that is intended to help you with your Software Interview Preparation and doubts related to coding problems. Codie runs on the GPT-3 model created by OpenAI, and is programmed specifically for this use case.  
 
@@ -22,7 +22,7 @@ That's not all, Codie is a smart AI chatbot, meaning you can chat with it and as
 
 # How to Install the extension
 
-0. Download the build/ folder from [here](https://drive.google.com/drive/folders/1Rgn7SwjAYUYvbV8vGjwRazjggD3C0TEE?usp=share_link) and skip to step 4   
+0. Download the build/ folder from [here](https://drive.google.com/drive/folders/1Rgn7SwjAYUYvbV8vGjwRazjggD3C0TEE?usp=share_link) and skip to step 4  And i have also added the build folder in this repo itself you can use that also. 
 
 OR    
 
