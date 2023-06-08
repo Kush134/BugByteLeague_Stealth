@@ -1,6 +1,6 @@
 # BugByteLeague Hackathon
 
-An AI powered chatbot that is intended to help you with your Software Interview Preparation and doubts related to coding problems. Codie runs on the GPT-3 model created by OpenAI, and is programmed specifically for this use case.  
+An AI powered chatbot that is intended to help you with your Software Interview Preparation and doubts related to coding problems. Codie runs on the GPT-3 model created by OpenAI, and is programmed specifically for this use case .  
 
 # Why use My Solution?
 - Codie comes as a chrome extension, meaning there's no need to navigate between tabs, making it super convinient and accessible
